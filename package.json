@@ -16,6 +16,7 @@
     "react-parallax": "^3.2.1",
     "react-reveal": "^1.2.2",
     "react-scrollable-anchor": "^0.6.1",
-    "scss": "^0.2.4"
+    "scss": "^0.2.4",
+    "typescript": "^4.3.2"
   }
 }
